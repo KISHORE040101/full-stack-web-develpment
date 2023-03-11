@@ -1,0 +1,43 @@
+visual studio code most popular and most powerful text editor for web development.
+Visual code is for c sharp and windows related activities.
+Vs code is more of a light weight text editor  
+it runs on mac ,windows and linux.
+it is built with Electron .js which allows to build destop application using web technologies,javascript ,html and css.
+we can add extentions for support is Vs .
+there are two versions in visual basic 
+1)stable version 
+2)Insiders version
+
+stable for professionals and insider for early Adopters.
+Extensions : for better experiances.
+Mini map: there exist a mini map in the right side of the Visual code interface which is used to skip to the specific code block quickly.
+
+Some key board shortcuts availabe in Visual Studio code:
+ctrl+ shift tab is used to toggle through the files existing in the visual studio code.
+ctrl+home /end to go to the beginning or end of a code
+"!" for viewing an emment or creating a html code.
+
+
+ some useful pluggins and settings in visual code.
+1)Emment:
+ 	this setting will help the user to use shortcuts to code and save ample of time.
+2)casacadia code:
+	helps in friendly fon t style built by Ms font ligutares.
+3) word wrap:
+ 	Aligns the para graphs.
+
+Extentions:
+ 1) cobalt2:
+	this will help the use in selecting a perfect theme.
+ 2) Prettier:
+	This Extention instantly formats the code when its saved.
+ 3) Adavnced-new-file:
+	This helps the user by  saving the file b y using the commands.
+ 4) Better comments:
+ 	This will highlight the comments with different colors.
+ 5) Quokka:
+	Helps the user by providing java script play ground and typeScript.
+ 6) live server:
+	this helps the user to view the code on a real port.
+ 7) bracket pair colorizer :
+	this gives specific color combination to the pair of braces.
